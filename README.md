@@ -12,7 +12,7 @@ Usage
 ```javascript
 var delegation = require('delegation');
 
-delegation(document, 'li', function(e) {
+delegation(document, 'click', 'li', function(e) {
     console.log(this.nodeName); // "LI"
 });
 ```
