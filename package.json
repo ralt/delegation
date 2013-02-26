@@ -1,6 +1,13 @@
 {
     "name": "delegation",
+    "description": "Implements event delegation.",
     "version": "0.3.0",
+    "keywords": [
+        "client",
+        "client-side",
+        "event",
+        "delegation"
+    ],
     "author": {
         "name": "Florian Margaine",
         "email": "florian@margaine.com",
@@ -9,5 +16,12 @@
     "main": "lib/delegation",
     "engines": {
         "browser": "*"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Ralt/delegation.git"
+    },
+    "bugs": {
+        "url": "https://github.com/Ralt/delegation/issues"
     }
 }
