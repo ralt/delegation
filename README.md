@@ -17,6 +17,11 @@ delegation(document, 'click', 'li', function(e) {
 });
 ```
 
+Installation
+---
+
+    npm install delegation
+
 Contributors
 ---
 
