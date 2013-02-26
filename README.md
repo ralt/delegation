@@ -10,9 +10,9 @@ Example
 ---
 
 ```javascript
-var delegation = require('delegation');
+var delegate = require('delegation');
 
-delegation(document, 'click', 'li', function(e) {
+delegate(document, 'click', 'li', function(e) {
     console.log(this.nodeName); // "LI"
 });
 ```
