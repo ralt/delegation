@@ -1,0 +1,13 @@
+{
+    "name": "delegation",
+    "version": "0.1.0",
+    "author": {
+        "name": "Florian Margaine",
+        "email": "florian@margaine.com",
+        "url": "http://margaine.com"
+    },
+    "main": "lib/delegation",
+    "engines": {
+        "browser": "*"
+    }
+}
