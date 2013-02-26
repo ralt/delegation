@@ -1,7 +1,10 @@
 {
     "name": "delegation",
     "description": "Implements event delegation.",
-    "version": "0.6.0",
+    "version": "0.7.0",
+    "dependencies": {
+        "or": "0.x"
+    },
     "keywords": [
         "client",
         "client-side",
